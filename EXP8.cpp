@@ -1,5 +1,5 @@
-//SHIVENDRA DWIVEDI
-//23070123122
+//GARV NANDWANA
+//23070123167
 //To study and implement C++ 2D Array Matrices 
 #include <iostream>
 using namespace std;
